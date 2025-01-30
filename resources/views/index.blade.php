@@ -379,7 +379,7 @@
 <!-- ***** Price Plan Area End ***** -->
 
 <!-- ***** FAQ Area Start ***** -->
-<section class="faq">
+<section class="faq" id="faq">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-12 col-md-10 col-lg-7">

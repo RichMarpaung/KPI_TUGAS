@@ -67,6 +67,7 @@
         <!-- ***** Header Start ***** -->
         <header id="header">
             <!-- Navbar -->
+
             <nav data-aos="zoom-out" data-aos-delay="800" class="navbar gameon-navbar navbar-expand">
                 <div class="container header">
                     <!-- Logo -->
@@ -79,42 +80,25 @@
                     <!-- Navbar Nav -->
                     <ul class="navbar-nav items mx-auto">
                         <li class="nav-item dropdown">
-                            <a href="#" class="nav-link">Home </a>
+                            <a href="/" class="nav-link">Home </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link smooth-anchor" href="#features">Features</a>
                         </li>
-                        <li class="nav-item dropdown">
-                            <a href="#" class="nav-link">Pages</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link smooth-anchor" href="#screenshots">Testimoni</a>
-                        </li>
+
+
                         <li class="nav-item">
                             <a class="nav-link smooth-anchor" href="#pricing">Pricing</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link smooth-anchor" href="#Login">Login</a>
+                            <a class="nav-link smooth-anchor" href="#faq">FAQ</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link smooth-anchor" href="/panduan">Panduan</a>
                         </li>
                     </ul>
 
-                    <!-- Navbar Icons -->
-                    <ul class="navbar-nav icons">
-                        <li class="nav-item">
-                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#search">
-                                <i class="icon-magnifier"></i>
-                            </a>
-                        </li>
-                    </ul>
 
-                    <!-- Navbar Toggler -->
-                    <ul class="navbar-nav toggle">
-                        <li class="nav-item">
-                            <a href="#" class="nav-link" data-bs-toggle="modal" data-bs-target="#menu">
-                                <i class="icon-menu m-0"></i>
-                            </a>
-                        </li>
-                    </ul>
                 </div>
             </nav>
         </header>
@@ -188,17 +172,13 @@
                                     <a class="nav-link" href="/">Home</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">About Us</a>
+                                    <a class="nav-link" href="/#">Features</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Services</a>
+                                    <a class="nav-link" href="#">Pricing</a>
                                 </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="blog-three-column.html">Blog</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="contact.html">Contact</a>
-                                </li>
+
+
                             </ul>
                         </div>
                     </div>
@@ -210,16 +190,13 @@
                             <!-- Navigation -->
                             <ul class="nav flex-column">
                                 <li class="nav-item">
-                                    <a class="nav-link" href="faq.html">FAQ</a>
+                                    <a class="nav-link" href="#faq">FAQ</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="#">Privacy Policy</a>
+                                    <a class="nav-link" href="/privacy">Privacy Policy</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="contact.html">Support</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link" href="#">Terms &amp; Conditions</a>
+                                    <a class="nav-link" href="/syarat">Terms &amp; Conditions</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link" href="contact.html">Contact</a>
