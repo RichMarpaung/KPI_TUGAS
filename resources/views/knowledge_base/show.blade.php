@@ -54,13 +54,13 @@
             <p style="color: green; font-size: 18px;">{{ session('success') }}</p>
         @endif
         <a href="{{ route('knowledge_base.create') }}">+ Add New Article</a>
-        @foreach ($articles as $article)
+
             <div class="article">
-                <h5>{{ $article->category }}</h5>
-                <h1>{{ $article->title }}</h1>
-                <a href="{{ route('knowledge_base.show', $article->id) }}">read more</a>
+                <h1>{{ $knowledgeBase->title }}</h1>
+                {!! $knowledgeBase->content !!}
+
             </div>
-        @endforeach
+
 
 
     </div>
