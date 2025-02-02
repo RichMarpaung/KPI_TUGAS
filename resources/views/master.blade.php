@@ -80,21 +80,21 @@
                     <!-- Navbar Nav -->
                     <ul class="navbar-nav items mx-auto">
                         <li class="nav-item dropdown">
-                            <a href="/" class="nav-link">Home </a>
+                            <a href="/" class="">Home </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link smooth-anchor" href="#features">Features</a>
+                            <a class="" href="/#features">Features</a>
                         </li>
 
 
                         <li class="nav-item">
-                            <a class="nav-link smooth-anchor" href="#pricing">Pricing</a>
+                            <a class="" href="/#pricing">Pricing</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link smooth-anchor" href="#faq">FAQ</a>
+                            <a class="" href="/#faq">FAQ</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link smooth-anchor" href="/panduan">Panduan</a>
+                            <a class="" href="/knowledge_base">Panduan</a>
                         </li>
                     </ul>
 
